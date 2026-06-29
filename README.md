@@ -3,7 +3,7 @@ Adidas, a global leader in sportswear and lifestyle products, operates across mu
 and e-commerce platforms. With intense competition from brands like Nike and Puma, along with rising customer expectations in digital shopping
 experiences, retaining customers has become a critical challenge. Although Adidas collects vast data on customer purchases, online interactions, and loyalty programs, their current reporting lacks the analytical depth to:
 
-The Goal and Objective is too
+The Goal and Objective 
 
 a. Understand why customers are churning?
 b. Identify loyal vs. at-risk customers
